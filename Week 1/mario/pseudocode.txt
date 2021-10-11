@@ -1,0 +1,5 @@
+Steps to Draw Mario's Pyramid:
+
+1. Ask the user for the Height
+2. Check if it is within 1 and 8 (inclusive) - if it is not, ask again
+3. Iterate from 1 through the informed height, printing each number of hashes and then a newline
